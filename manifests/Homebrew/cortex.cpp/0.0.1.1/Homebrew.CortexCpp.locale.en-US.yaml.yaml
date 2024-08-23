@@ -1,0 +1,12 @@
+# Created using wingetcreate 1.6.1.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.6.0.schema.json
+
+PackageIdentifier: Homebrew.CortexCpp
+PackageVersion: 0.0.1.1
+PackageLocale: en-US
+Publisher: Homebrew
+PackageName: CortexCpp
+License: Apache-2.0 license
+ShortDescription: cortex.cpp is a streamlined, stateless C++ server engineered to be fully compatible with OpenAI's API, particularly its stateless functionalities
+ManifestType: defaultLocale
+ManifestVersion: 1.6.0
